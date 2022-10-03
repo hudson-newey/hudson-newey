@@ -3,7 +3,12 @@
   <div align="center">
     <a href="https://github.com/devSouvik/github-readme-stats" width="60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-newey&layout=compact&text_color=daf7dc&bg_color=151515" style="position:relative;width:50%;height:50%;"></a>
   </div>
+  
+  <br>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=hudson-newey&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <br>
 </div>
 
 <div>
