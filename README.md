@@ -6,7 +6,7 @@
   </div>
   
   <div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=hudson-newey)](https://github.com/ryo-ma/github-profile-trophy)
+    [![trophy](https://github-profile-trophy.vercel.app/?username=hudson-newey&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 </div>
 
