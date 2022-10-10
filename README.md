@@ -8,7 +8,7 @@
   <br>
   
   <b>My Expert Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,github,go,linux,nodejs,py,regex,sass,ts,vim,vscode,latex)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,github,go,linux,nodejs,py,regex,sass,ts,vscode,latex)](https://skillicons.dev)
   
   <b>My High Knowledge Stack</b><br>
   [![My Stack](https://skillicons.dev/icons?i=dotnet,cs,powershell,wordpress,md,vim,eclipse,git,visualstudio,jquery)](https://skillicons.dev)
