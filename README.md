@@ -11,10 +11,10 @@
   [![My Stack](https://skillicons.dev/icons?i=js,html,css,atom,bash,bootstrap,c,eclipse,electron,git,github,go,linux,md,nodejs,py,regex,sass,ts,vim,vscode)](https://skillicons.dev)
   
   <b>My High Knowledge Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=dotnet,cs,jenkins,powershell,wordpress)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=dotnet,cs,powershell,wordpress)](https://skillicons.dev)
   
   <b>My Compient Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=coffeescript,dotnet,cs,cpp,flask,java,jenkins,mongodb,mysql,r,raspberrypi)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=coffeescript,cpp,flask,java,jenkins,mongodb,mysql,r,raspberrypi)](https://skillicons.dev)
   
   <b>My Learning Stack</b><br>
   [![My Stack](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
