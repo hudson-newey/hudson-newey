@@ -8,16 +8,19 @@
   <br>
   
   <b>My Expert Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,github,go,linux,nodejs,py,regex,sass,ts,vim,vscode)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,c,github,go,linux,nodejs,py,regex,sass,ts,vim,vscode,latex)](https://skillicons.dev)
   
   <b>My High Knowledge Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=dotnet,cs,powershell,wordpress,md,vim,eclipse,electron,git)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=dotnet,cs,powershell,wordpress,md,vim,eclipse,git,visualstudio,jquery)](https://skillicons.dev)
   
   <b>My Compient Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=coffeescript,cpp,flask,java,jenkins,mongodb,mysql,r,raspberrypi)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=coffeescript,cpp,flask,java,jenkins,mongodb,mysql,r,raspberrypi,ruby,postgres,perl,ai,ps,githubactions,express,electron,docker,arduino)](https://skillicons.dev)
   
   <b>My Learning Stack</b><br>
-  [![My Stack](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
+  [![My Stack](https://skillicons.dev/icons?i=rust,nginx,aws,bsd)](https://skillicons.dev)
+  
+  <b>Want to Learn Stack</b><br>
+  [![My Stack](https://skillicons.dev/icons?i=svg,tailwind,tensorflow,wasm,svelte,rails,pytorch,lua,kubernetes,gcp,figma,deno,cmake,cassandra,blender)](https://skillicons.dev)
 </div>
 
 <div>
