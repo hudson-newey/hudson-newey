@@ -6,6 +6,8 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=hudson-newey&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
+  
+  [![My Stack](https://skillicons.dev/icons?i=js,html,css,atom,bash,bootstrap,c,cs,cpp,codepen,coffeescript,dotnet,eclipse,electron,flask,git,github,go,java,jenkins,linux,md,mongodb,mysql,nodejs,powershell,py,r,raspberrypi,regex,sass,ts,vim,vscode,wordpress)](https://skillicons.dev)
 </div>
 
 <div>
