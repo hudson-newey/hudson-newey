@@ -3,5 +3,5 @@
 </div>
 
 <div>
-  <button onclick="window.location.href='https://hudson-newey.github.io/'">Grathium Industries Website</a><br>
+  <button onclick="window.location.href='https://hudson-newey.github.io/'">Grathium Industries Website</button><br>
 </div>
