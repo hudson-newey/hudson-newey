@@ -3,6 +3,6 @@
 </div>
 
 <div>
-  <b>My Large / Maintained Projects are Managed by <a href="https://github.com/Grathium-Industries">Grathium Industries</a></b><br>
+  <b>My Large / Maintained Projects are Managed Under <a href="https://github.com/Grathium-Industries">Grathium Industries</a></b><br>
   <a href="https://hudson-newey.github.io/">Grathium Industries Website</a><br>
 </div>
