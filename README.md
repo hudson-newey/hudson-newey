@@ -4,5 +4,4 @@
 
 <div>
   <a href="https://hudson-newey.github.io/">Grathium Industries Website</a><br>
-  <a href="https://hudson-newey.github.io/">LinkedIn</a>
 </div>
