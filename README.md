@@ -6,3 +6,5 @@
   <b>My Large / Maintained Projects are Managed Under <a href="https://github.com/Grathium-Industries">Grathium Industries</a></b><br>
   <a href="https://hudson-newey.github.io/">Grathium Industries Website</a><br>
 </div>
+
+![Hudson's github activity graph](https://activity-graph.herokuapp.com/graph?username=hudson-newey&theme=dracula)
