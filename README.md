@@ -10,7 +10,7 @@
 </div>
 
 <!-- embeded analytics -->
-<a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in" style="visibility:hidden">
   <img src="https://visitcount.itsvg.in/api?id=hudson-newey&label=Profile%20Views&color=8&icon=1&pretty=true" />
 </a>
 Since 09/01/2022
