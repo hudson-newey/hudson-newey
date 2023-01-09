@@ -10,6 +10,6 @@
 </div>
 
 <!-- embeded analytics -->
-<a href="https://visitcount.itsvg.in" class="display: block;">
+<a href="https://visitcount.itsvg.in" class="display: hidden;">
   <img src="https://visitcount.itsvg.in/api?id=hudson-newey&label=Profile%20Views&color=8&icon=1&pretty=true" />
 </a>
